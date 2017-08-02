@@ -1,4 +1,4 @@
-package utils;
+package com.mpower.utils;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferByte;
 
